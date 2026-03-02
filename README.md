@@ -73,31 +73,3 @@ current_focus = {
     "Data": ["EDA", "Feature Engineering"],
     "Goal": "Build impactful products at the intersection of AI & Web"
 }
-
----
-
-🤝 Let's Connect
-<div align="center">
-Show Image
-Show Image
-Show Image
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <br/>
-  <i>⭐ "Code is my brush, Data is my canvas, the Web is my gallery." ⭐</i>
-</div>
-</div>
-
----
-
-<!-- Footer -->
-
-<div align="center">
-  <i>"Code is my brush, Data is my canvas, the Web is my gallery."</i>
-</div>
