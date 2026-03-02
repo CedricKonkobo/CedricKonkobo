@@ -76,13 +76,22 @@ current_focus = {
 
 ---
 
-## 🤝 Let's Connect
-
+🤝 Let's Connect
 <div align="center">
+Show Image
+Show Image
+Show Image
+</div>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/feed/update/urn:li:activity:7429475521207595009/?originTrackingId=rtj%2B4MIF1uhk%2BuAbrJ23%2BQ%3D%3D))
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](faissalkonkobo5@gmail.com)
-
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <br/>
+  <i>⭐ "Code is my brush, Data is my canvas, the Web is my gallery." ⭐</i>
+</div>
 </div>
 
 ---
