@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+[Your+Name]+%F0%9F%91%8B;AI+%26+Data+Science+Student+%F0%9F%A4%96;Web+Developer+%F0%9F%8C%90;Entrepreneur+in+the+making+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Cedric KONKOBO+%F0%9F%91%8B;AI+%26+Data+Science+Student+%F0%9F%A4%96;Web+Developer+%F0%9F%8C%90A" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -18,14 +18,14 @@
 
 > *"Driven not by diplomas alone, but by the relentless curiosity to understand, build, and innovate."*
 
-👋 Hey! I'm **[Your Name]** — a passionate explorer at the crossroads of **Artificial Intelligence**, **Web Development**, and **Entrepreneurship**.
+👋 Hey! I'm Cedric KONKOBO — a passionate explorer at the crossroads of **Artificial Intelligence**, **Web Development**, and **Entrepreneurship**.
 
-🎓 I hold a **Bachelor's degree (Bac+3)** and I'm currently deepening my journey as an **AI & Data Science student**.
+🎓 I'm currently deepening my journey as an **AI & Data Science student**.
 
 🌍 Self-directed and inspired by world-class universities and leading tech companies, I immerse myself daily in:
-- 📊 **Data Analysis** — turning raw numbers into meaningful stories
-- 🤖 **Machine Learning & Deep Learning** — training models that think
-- 🌐 **Innovative Web Application Design** — crafting seamless digital experiences
+- 📊 **Data Analysis** 
+- 🤖 **Machine Learning & Deep Learning** 
+- 🌐 **Innovative Web Application Design**
 
 I believe that the best education has no classroom — it lives in curiosity, code, and creation.
 
@@ -69,31 +69,15 @@ I believe that the best education has no classroom — it lives in curiosity, co
 
 </div>
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 🌱 Currently Exploring
 
 ```python
 current_focus = {
-    "AI"  : ["Deep Learning", "Computer Vision", "NLP"],
+    "AI"  : ["Machine learning","Deep Learning", "Computer Vision"],
     "Web" : ["React", "Full-Stack Development", "API Design"],
-    "Data": ["EDA", "Feature Engineering", "Model Deployment"],
-    "Goal": "Build impactful products at the intersection of AI & Web 🚀"
+    "Data": ["EDA", "Feature Engineering"],
+    "Goal": "Build impactful products at the intersection of AI & Web"
 }
-```
 
 ---
 
@@ -101,21 +85,15 @@ current_focus = {
 
 <div align="center">
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_WEBSITE.com)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/feed/update/urn:li:activity:7429475521207595009/?originTrackingId=rtj%2B4MIF1uhk%2BuAbrJ23%2BQ%3D%3D))
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](faissalkonkobo5@gmail.com)
 
 </div>
 
 ---
 
 <!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <br/>
-  <i>⭐ "Code is my brush, Data is my canvas, the Web is my gallery." ⭐</i>
+  <i>"Code is my brush, Data is my canvas, the Web is my gallery."</i>
 </div>
