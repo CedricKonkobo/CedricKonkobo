@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Space%20!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Where%20Data%20meets%20Code%20meets%20Vision&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
-<!-- Typing animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Cedric KONKOBO+%F0%9F%91%8B;AI+%26+Data+Science+Student+%F0%9F%A4%96;Web+Developer+%F0%9F%8C%90A" alt="Typing SVG" />
-</div>
-
 <br/>
 
 ---
