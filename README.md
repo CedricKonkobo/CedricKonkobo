@@ -22,24 +22,3 @@
 
 💡 My approach:
 > From **data → model → system → product**
-
----
-
-## 🎯 My Focus
-
-```python
-focus = {
-    "AI Engineer": [
-        "Build AI-powered applications",
-        "Integrate LLMs & APIs",
-        "Backend systems (FastAPI, Flask)",
-        "Deploy scalable AI services"
-    ],
-    "ML Engineer": [
-        "Model training & optimization",
-        "Computer Vision (YOLO, OpenCV)",
-        "Feature engineering",
-        "Evaluation & performance tuning"
-    ],
-    "Goal": "Design production-ready AI systems with real-world impact"
-}
