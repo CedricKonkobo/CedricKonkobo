@@ -62,14 +62,6 @@ I believe that the best education has no classroom — it lives in curiosity, co
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-</div>
 
-## 🌱 Currently Exploring
 
-```python
-current_focus = {
-    "AI"  : ["Machine learning","Deep Learning", "Computer Vision"],
-    "Web" : ["React", "Full-Stack Development", "API Design"],
-    "Data": ["EDA", "Feature Engineering"],
-    "Goal": "Build impactful products at the intersection of AI & Web"
 }
