@@ -1,67 +1,62 @@
- <!-- Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Space%20!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Where%20Data%20meets%20Code%20meets%20Vision&descAlignY=55&descSize=18" width="100%"/>
-</div>
+<img src="assets/banner.png" alt="Cédric Konkobo — Building AI from first principles" width="100%">
 
-<br/>
+I'm an AI & Data Engineering student at **ENSAM Rabat**. I learn models from first principles — building them from scratch before using libraries — and take them all the way to deployed, explainable applications.
 
----
+Open to **AI / Data internships** and **research opportunities**.
 
-## 🧠 About Me
+## Currently
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+- Reading `CRAG` and `Self-RAG` to build a production-oriented **RAG** system
+- Building a **voice-to-location AI for Mooré**: spoken place names in Ouagadougou → GPS coordinates *(industry project, building the city's place-name dataset)*
+- Building an AI system against **institution impersonation scams** — *finalist at the Benin AI Hackathon*
 
-> *"Driven not by diplomas alone, but by the relentless curiosity to understand, build, and innovate."*
+## Achievements
 
-👋 Hey! I'm Cedric KONKOBO — a passionate explorer at the crossroads of **Artificial Intelligence**, **Web Development**, and **Entrepreneurship**.
+- **1st place** — Actionner 2.0, ENSAM entrepreneurship competition
+- **3rd place** — Enactus ENCG entrepreneurship competition
+- **Top 28%** — Zindi machine learning competition (172 / 609)
 
-🎓 I'm currently deepening my journey as an **AI & Data Science student**.
+## Tech stack
 
-🌍 Self-directed and inspired by world-class universities and leading tech companies, I immerse myself daily in:
-- 📊 **Data Analysis** 
-- 🤖 **Machine Learning & Deep Learning** 
-- 🌐 **Innovative Web Application Design**
+**Languages**<br>
+![Python](https://img.shields.io/badge/Python-102A6E?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-102A6E?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-102A6E?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-102A6E?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-102A6E?style=flat-square&logo=typescript&logoColor=white)
 
-I believe that the best education has no classroom — it lives in curiosity, code, and creation.
+**ML / DL**<br>
+![NumPy](https://img.shields.io/badge/NumPy-102A6E?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-102A6E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-102A6E?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-102A6E?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-102A6E?style=flat-square&logo=opencv&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-102A6E?style=flat-square)
 
----
+**LLM & Agents**<br>
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-102A6E?style=flat-square&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-102A6E?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-102A6E?style=flat-square&logo=langgraph&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-102A6E?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-102A6E?style=flat-square&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-102A6E?style=flat-square)
 
-## 🛠️ My Tech Stack
+**Data**<br>
+![Pandas](https://img.shields.io/badge/Pandas-102A6E?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-102A6E?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-102A6E?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power_BI-102A6E?style=flat-square)
 
-### 🎨 Design & Web Development
-<div align="center">
+**Backend & Apps**<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-102A6E?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-102A6E?style=flat-square&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-102A6E?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-102A6E?style=flat-square&logo=mlflow&logoColor=white)
+![React](https://img.shields.io/badge/React-102A6E?style=flat-square&logo=react&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-102A6E?style=flat-square&logo=laravel&logoColor=white)
 
-  ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+## Contact
 
-</div>
-
-### 🤖 AI & Data Science
-<div align="center">
-
-  ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-  ![SciPy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-  ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-
-</div>
-
-### ⚙️ Other Languages
-<div align="center">
-
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-
-
-}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E5BD8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/VOTRE-PROFIL)
+[![Email](https://img.shields.io/badge/Email-1E5BD8?style=flat-square&logo=gmail&logoColor=white)](mailto:faissalkonkobo5@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E5BD8?style=flat-square&logo=googlechrome&logoColor=white)](https://VOTRE-PORTFOLIO)
