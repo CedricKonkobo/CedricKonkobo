@@ -18,42 +18,25 @@ Open to **AI / Data internships** and **research opportunities**.
 
 ## Tech stack
 
-**Languages**<br>
-![Python](https://img.shields.io/badge/Python-102A6E?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-102A6E?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-102A6E?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-102A6E?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-102A6E?style=flat-square&logo=typescript&logoColor=white)
-
 **ML / DL**<br>
+![Python](https://img.shields.io/badge/Python-102A6E?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-102A6E?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-102A6E?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-102A6E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-102A6E?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-102A6E?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-102A6E?style=flat-square&logo=opencv&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-102A6E?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-102A6E?style=flat-square)
 
 **LLM & Agents**<br>
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-102A6E?style=flat-square&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-102A6E?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-102A6E?style=flat-square&logo=langgraph&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-102A6E?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-102A6E?style=flat-square&logo=meta&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-102A6E?style=flat-square)
 
-**Data**<br>
-![Pandas](https://img.shields.io/badge/Pandas-102A6E?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-102A6E?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-102A6E?style=flat-square)
-![Power BI](https://img.shields.io/badge/Power_BI-102A6E?style=flat-square)
-
-**Backend & Apps**<br>
+**Deployment**<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-102A6E?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-102A6E?style=flat-square&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-102A6E?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-102A6E?style=flat-square&logo=mlflow&logoColor=white)
 ![React](https://img.shields.io/badge/React-102A6E?style=flat-square&logo=react&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-102A6E?style=flat-square&logo=laravel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-102A6E?style=flat-square&logo=git&logoColor=white)
 
 ## Contact
 
